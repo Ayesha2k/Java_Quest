@@ -74,7 +74,7 @@ Think of it as my personal study guide + code lab!
 ---
 
 ## ✅ **Course Reference**
-* [Java Certificate Prep: OCA & OCP (Udemy) by Luka Popov](https://www.udemy.com/course/java-certification-ocp-oca/)
+* [Java Certificate Prep: OCA & OCP (Udemy) by Luka Popov](https://www.udemy.com/course/java-certification-exam-prep-oca-1z0-808-ocp-1z0-829/?couponCode=MT150725G1)
 * Presentation slides available in course as PDFs
 
 ---
