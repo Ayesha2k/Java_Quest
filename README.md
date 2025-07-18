@@ -48,7 +48,7 @@ Think of it as my personal study guide + code lab!
 ---
 
 ## 🛠️ **Tools & Setup**
-- **Language:** Java (target: SE 8 → SE 17 → SE 21)
+- **Language:** Java (target: SE 8 for OCA and SE 17 for OCP)
 - **IDE:** IntelliJ IDEA (mostly) / Eclipse
 - **Mock Exams:** Enthuware (recommended)
 - **Practice Platforms:** JDoodle, OneCompiler (for quick tests)
